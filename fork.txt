@@ -1,5 +1,11 @@
+
 fork
 
 Alfa : Samantha Amoruso
 ip: 192.168.0.51
 hora : 19:05
+=======
+Nombre y Apellido: Sergio Gonzalez
+IP: 192.168.1.104
+Hora: 18:59
+
