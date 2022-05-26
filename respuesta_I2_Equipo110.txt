@@ -18,53 +18,56 @@ e- realizar un listado, paso a paso ,de los comando necesarios para resolver est
 orden de ejecución de los mismos junto con los apellidos y nombre de los alumnos.
 
 Paso 2:
+Gonzalez Sergio
 - Hacer Fork
 - git clone https://github.com/S3RGIO-G/TP_SO_i2_Equipo110.git
 - cd TP_SO_i2_Equipo110
 - Modifica el archivo
 - git add .
 - git commit -m
-- git push
+- git push 
 
 Paso 3:
+Amoruso Samantha
 - Hacer Fork
 - git clone https://github.com/SamanthaAmoruso/TP_SO_i2_Equipo110.git
 - cd TP_SO_i2_Equipo110
 - Modifica el archivo
 - git add .
 - git commit -m
-- git push
+- git push 
 
 Paso 4:
+Torrez Martina 
 - git clone https://github.com/martinatorrez/TP_SO_i2_Equipo110.git
 - cd TP_SO_i2_Equipo110
 - Crea el archivo
 - git add .
 - git commit -m
-- git push
+- git push 
 
 Paso 5:
-GAMMA y ALFA hacen:
+Gonzalez Sergio y Amoruso Samantha hacen:
 - git remote add upstream https://github.com/martinatorrez/TP_SO_i2_Equipo110
 - git fetch upstream
 - git checkout main
 - git rebase upstream/main
-- git push -f origin main
+- git push -f origin main 
 
 paso 6:
-GAMMA: 
+Gonzalez Sergio: 
 - Agrega las respuestas al archivo respuesta_I2_Equipo110.txt
 - git add .
 - git commit -m
 - git push
 - Crea una pull request
-BETA:
+Torrez Martina:
 - git pull
 - Agrega las respuestas al archivo respuesta_I2_Equipo110.txt
 - git add .
 - git commit -m
 - git push
-ALFA:
+Amoruso Samantha:
 - git fetch upstream
 - git checkout main
 - git rebase upstream/main
@@ -74,4 +77,3 @@ ALFA:
 - git commit -m
 - git push
 - Crea una pull request
-
